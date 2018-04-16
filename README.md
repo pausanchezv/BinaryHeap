@@ -14,7 +14,7 @@ queue.push(a);
 queue.push(b);
 queue.push(c;
 
-while (queue.size() > 0) {
+while (!queue.isEmpty()) {
     console.log(queue.pop());
 }
 ```
