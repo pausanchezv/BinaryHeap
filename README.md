@@ -17,4 +17,8 @@ queue.push(c);
 while (!queue.isEmpty()) {
     console.log(queue.pop());
 }
+
+// Jess
+// Vincent
+// Antonio
 ```
