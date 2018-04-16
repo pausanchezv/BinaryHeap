@@ -12,7 +12,7 @@ var c = ["Jess", 13];
 
 queue.push(a);
 queue.push(b);
-queue.push(c;
+queue.push(c);
 
 while (!queue.isEmpty()) {
     console.log(queue.pop());
