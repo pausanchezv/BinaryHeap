@@ -4,6 +4,8 @@ JavaScript Bynary Heap
 ## Test
 
 ``` javascript
+var queue = new BinaryHeap();
+
 var a = ["Vincent", 20];
 var b = ["Antonio", 355];
 var c = ["Jess", 13];
