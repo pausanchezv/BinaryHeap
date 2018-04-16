@@ -18,6 +18,7 @@ while (!queue.isEmpty()) {
     console.log(queue.pop());
 }
 
+// Output
 // Jess
 // Vincent
 // Antonio
